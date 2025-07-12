@@ -23,7 +23,7 @@ const constants = {
     ASSETS: {
       VIDEOS: {
         PROMO:
-          "https://link.storjshare.io/jvlh23ehzpij4kuwzry7dfuebjja/react-fiverr-bucket%2Fassets%2Fvideos%2Fpromo.mp4?wrap=0",
+          "https://s3-bucket-public.s3.us-east-005.backblazeb2.com/fiverr/assets/videos/promo.mp4",
       },
 
       IMAGES: {
