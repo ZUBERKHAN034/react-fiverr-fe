@@ -15,7 +15,7 @@ export const Links = () => {
         <button
           className="link-button"
           type="button"
-          onClick={() => window.open("https://fiveerr.tech/", "_blank")}
+          onClick={() => window.open("https://fiveerr.netlify.app/", "_blank")}
         >
           <>
             <svg
